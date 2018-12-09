@@ -9,9 +9,11 @@ tags:
   - Docker
 ---
 
+Source code available [here](https://github.com/ThePicoNerd/Blog/tree/master/content/microservices/dockerizing-a-node-app/source).
+
 ## Writing the application
 
-If you don't have your own application, write a simple [Express.js](https://npmjs.com/package/express) API:
+If you're just trying Docker out and don't have an application, write a simple [Express.js](https://npmjs.com/package/express) RESTful application:
 
 ```javascript
 const express = require("express");
