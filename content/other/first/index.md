@@ -2,7 +2,7 @@
 title: You found my blog!
 description: |
   Wow! You managed to find my blog!
-author: thepiconerd
+author: ThePicoNerd
 date_posted: 2018-12-08
 tags:
   - Message
