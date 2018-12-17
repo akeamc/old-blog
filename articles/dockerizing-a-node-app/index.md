@@ -4,9 +4,9 @@ description: In this guide, you will learn how to make a simple Node.js RESTful 
 author: ThePicoNerd
 date_posted: 2018-12-08
 tags:
-  - Guide
-  - JavaScript
-  - Docker
+  - tutorial
+  - javascript
+  - docker
 ---
 
 Source code available [here](https://github.com/ThePicoNerd/Blog/tree/master/content/microservices/dockerizing-a-node-app/source).

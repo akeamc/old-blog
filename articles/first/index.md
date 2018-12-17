@@ -5,7 +5,7 @@ description: |
 author: ThePicoNerd
 date_posted: 2018-12-08
 tags:
-  - Message
+  - message
 ---
 
 ## Things you should know
