@@ -12,7 +12,8 @@
   "path": "node-js"
 }, {
   "name": "Docker",
-  "path": "docker"
+  "path": "docker",
+  "wiki": "https://en.wikipedia.org/wiki/Docker_(software)"
 }, {
   "name": "Tutorial",
   "path": "tutorial"
