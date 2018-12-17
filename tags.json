@@ -8,6 +8,9 @@
   "name": "JavaScript",
   "path": "javascript"
 }, {
+  "name": "Node.js",
+  "path": "node-js"
+}, {
   "name": "Docker",
   "path": "docker"
 }, {
