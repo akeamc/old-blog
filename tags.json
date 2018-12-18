@@ -17,4 +17,7 @@
 }, {
   "name": "Tutorial",
   "path": "tutorial"
+}, {
+  "name": "Mathematics",
+  "path": "mathematics"
 }]
