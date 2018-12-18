@@ -1,6 +1,6 @@
 # Blog
 
-All of the blog posts of my blog
+All of the blog posts of [my blog](https://lynx.agency).
 
 ## Typos
 
