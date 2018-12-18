@@ -9,7 +9,7 @@ tags:
   - docker
 ---
 
-Source code available [here](https://github.com/ThePicoNerd/Blog/tree/master/content/microservices/dockerizing-a-node-app/source).
+Source code available [here](https://github.com/ThePicoNerd/Blog/tree/master/articles/dockerizing-a-node-app/source).
 
 ## Writing the application
 
