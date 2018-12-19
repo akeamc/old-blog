@@ -11,7 +11,12 @@ tags:
 
 ## Look at it
 
-I tried [MathJax](https://www.mathjax.org). I did not like it, nor do I recommend it. I came across [KaTeX](https://katex.org). I like it.
+I tried [MathJax](https://www.mathjax.org). I did not like it, nor do I recommend it. I came across [KaTeX](https://katex.org). I like it. Actually, I have come to the conclusion that KaTeX is just like MathJax, but with a few differences:
+
+- It's faster! ⚡
+- You don't have to bother with an annoying right-click menu... 💨
+
+That's two reasons to use KaTeX. After all, $2>0$.
 
 The rendering is handled by the client. I tried rendering the math on the server, without any success. Here's a demo of what KaTeX can do:
 
@@ -43,7 +48,7 @@ $$
 \sum_{i = 1}^n -1^{i+1} + 2i
 $$
 
-There are greek letters, too. Just type `\alpha`, `\beta` or whatever letter you wish, and it will appear! It's like magic. Be careful, though. `\Alpha` is a whole other letter than `alpha`:
+There are greek letters, too. Just type `\alpha`, `\beta` or whatever letter you wish, and it will appear! It's like magic. Be careful, though. `\Alpha` is a whole other letter than `\alpha`:
 
 ```tex
 \alpha \Alpha
@@ -55,7 +60,7 @@ $$
 \alpha \Alpha 
 $$
 
-I will still blog about programming, too. But expect fancy formulas buried in the posts.
+I will keep blogging about programming. But expect fancy formulas buried in the posts.
 
 ![Falcon Heavy Booster Landing](https://images.unsplash.com/photo-1517976547714-720226b864c1?ixlib=rb-1.2.1&q=85&fm=jpg&crop=entropy&cs=srgb)
 
