@@ -34,14 +34,10 @@ $$
 I know. This is the greatest idea of all time: Combining blogging with _math_! I am aware of the fact that not everyone's favorite subject is mathematics, but I like it. Once again, deal with it.
 
 $$
-\left(\frac{x^2}{3y^2-2} \right)^2
+x \in \mathbb{N}
 $$
 
 You still think it's worth a "meh"?
-
-$$
-n \in \mathbb{N}
-$$
 
 $$
 \sum_{i = 1}^n -1^{i+1} + 2i
