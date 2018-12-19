@@ -40,7 +40,7 @@ $$
 You still think it's worth a "meh"?
 
 $$
-n \in\mathbb N
+n \in N
 
 \\
 
