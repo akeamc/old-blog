@@ -16,7 +16,7 @@ I tried [MathJax](https://www.mathjax.org). I did not like it, nor do I recommen
 - It's faster! ⚡
 - You don't have to bother with an annoying right-click menu... 💨
 
-That's two reasons to use KaTeX. After all, $2>0$.
+That's two reasons to use KaTeX. After all, two is more than zero.
 
 The rendering is handled by the client. I tried rendering the math on the server, without any success. Here's a demo of what KaTeX can do:
 
