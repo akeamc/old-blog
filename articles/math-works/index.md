@@ -2,9 +2,7 @@
 title: MATH!
 description: |
   I have added MathJax to my blog.
-author:
-  - ThePicoNerd
-  - digitalocean
+author: ThePicoNerd
 date_posted: 2018-12-18 20:10:00
 tags:
   - message
