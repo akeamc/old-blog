@@ -11,8 +11,10 @@ tags:
 
 ## Me
 
-Hello everyone jag heter Lill och är Åkes lillasyster. Jag gillar hästar och spelar Star Stable Online (som jag nog kommer kalla "sso" i framtiden) och jag började spela det år 2016 när jag var 8 år. För er som undrar så är jag på servern Fluffy Unicorn och kommer inte flytta på länge.  Jag är i level 20 och har för tillfället 19 hästar. (I sso såklart) 
+Hello everyone! I'm Sigrid Masterbard, ThePicoNerd's little sister. I like horses and play Star Stable Online (that I probably will refer to as "SSO" in the future) and started to play in 2016 when I was 8 years old. For those wondering, I'm on [Fluffy Unicorn](http://jorvikipedia.wikia.com/wiki/Fluffy_Unicorn), and won't move for a while. I'm at level 20 and have 19 horses at the moment, in SSO of coure.
 
-På min blogg kommer jag skriva om Star Stables uppdateringar och hur jag känner inför dem. Jag kommer också skriva lite om vad jag gör på Star Stable, t.e.x: "Idag köpte jag en fuxfärgad hannoveranare som heter Blueborn"
+## What I will write
 
-Hoppas du gillar min blogg! Det ska bli roligt att skriva!
+I will write about Star Stable's updates and how I feel about them. I will also write a bit about what I do on Star Stable, for example "I bought a chestnut Hanoverian whose name is Blueborn".
+
+I hope you like my blog. It will be fun to write!
