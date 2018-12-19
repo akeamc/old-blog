@@ -41,9 +41,9 @@ You still think it's worth a "meh"?
 
 $$
 n \in N
+$$
 
-\\
-
+$$
 \sum_{i = 1}^n -1^{i+1} + 2i
 $$
 
