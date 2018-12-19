@@ -13,7 +13,7 @@ tags:
 
 I tried [MathJax](https://www.mathjax.org). I did not like it, nor do I recommend it. I came across [KaTeX](https://katex.org). I like it.
 
-I am not letting you, the clients, render the math. I'm letting my server (a Raspberry Pi) handle it, and you are only responsible of downloading stylesheets and fonts. And the usual rendering of a web page. No big deal. Here's a demo of what KaTeX can do:
+The rendering is handled by the client. I tried rendering the math on the server, without any success. Here's a demo of what KaTeX can do:
 
 $$
 \frac{250}{5^2}
@@ -40,10 +40,10 @@ $$
 You still think it's worth a "meh"?
 
 $$
-n \in N
-$$
+n \in \mathbb{N}
 
-$$
+\\
+
 \sum_{i = 1}^n -1^{i+1} + 2i
 $$
 
