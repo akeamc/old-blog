@@ -11,7 +11,7 @@ tags:
 
 ## Me
 
-Hello everyone! I'm Sigrid Masterbard, ThePicoNerd's little sister. I like horses and play Star Stable Online (that I probably will refer to as "SSO" in the future) and started to play in 2016 when I was 8 years old. For those wondering, I'm on [Fluffy Unicorn](http://jorvikipedia.wikia.com/wiki/Fluffy_Unicorn), and won't move for a while. I'm at level 20 and have 19 horses at the moment, in SSO of coure.
+Hello everyone! I'm Sigrid Masterbard, ThePicoNerd's little sister. I like horses and play Star Stable Online (that I probably will refer to as "SSO" in the future) and started to play in 2016 when I was 8 years old. For those wondering, I'm on [Fluffy Unicorn](http://jorvikipedia.wikia.com/wiki/Fluffy_Unicorn), and won't move for a while. I'm at level 20 and have 19 horses at the moment, in SSO of course.
 
 ## What I will write
 
