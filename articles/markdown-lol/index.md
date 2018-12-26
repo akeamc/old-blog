@@ -1,3 +1,16 @@
+---
+title: Markdown? LOL!
+description: |
+  This is just a test.
+author:
+ - ThePicoNerd
+ - SigridMasterbard
+date_posted: 2100-01-01
+tags:
+  - message
+  - mathematics
+---
+
 ## H2
 ### H3
 #### H4
