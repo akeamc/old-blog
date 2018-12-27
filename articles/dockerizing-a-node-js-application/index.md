@@ -2,7 +2,7 @@
 title: Dockerizing a Node.js application
 description: In this guide, you will learn how to make a simple Node.js RESTful application and dockerize it. There are hundreds of guides just like this one out there. Thank you for choosing this one!
 author: ThePicoNerd
-date_posted: 2018-12-08 15:08:00
+date_posted: 2018-12-08 14:08:17Z
 tags:
   - tutorial
   - node-js
