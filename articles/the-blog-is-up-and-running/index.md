@@ -3,7 +3,7 @@ title: The blog is up and running!
 description: |
   After finishing up the last bit of code, the blog is running on my Raspberry Pi, and it's now available online!
 author: ThePicoNerd
-date_posted: 2018-12-14
+date_posted: 2018-12-14 21:08:15Z
 tags:
   - message
 ---

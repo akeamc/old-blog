@@ -20,4 +20,8 @@
 }, {
   "name": "Mathematics",
   "path": "mathematics"
+}, {
+  "name": "Star Stable Online",
+  "path": "sso",
+  "wiki": "https://www.starstable.com/en"
 }]
