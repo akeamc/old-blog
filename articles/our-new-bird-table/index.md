@@ -8,4 +8,4 @@ tags:
   - birds
 ---
 
-Igår köpte min familj ett fågelbord som vi satte utanför köksfönstret. Det har kommit många fågelarter dit, till och med en större hackspett försökte snappa åt sig lite mat. Det påminner mig om fåglarna i Star Stable. Det är en så underbar spelupplevesle med fåglar, bin, trollsländor och fjärilar. Det är kul att de har kommit till Silverglade och Mistfall och jag skulle önska att de kom till alla andra ställen på Jorvik. (Förutom dinodalen, de skulle nog inte passa så bra där.) Jaha, det var nog allt jag hade för den här gången. Hejdå!
+Yesterday, my family bought a bird table that we put outside of our kitchen window. Many species have come, even a [great spotted woodpecker](https://en.wikipedia.org/wiki/Great_spotted_woodpecker) tried to grab some food. That reminds me about the birds in Star Stable. That is a wonderful experience with birds, bees, dragonfly and butterflies. It's fun that they have come to Silverglade and Mistfall, and I wish that they came to all the other places in Jorvik. Except for Dino Valley, they would probably not blend in very well. I guess that's all I had for this time. Bye!
