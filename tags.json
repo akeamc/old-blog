@@ -24,4 +24,11 @@
   "name": "Star Stable Online",
   "path": "sso",
   "wiki": "https://www.starstable.com/en"
+}, {
+  "name": "Log",
+  "path": "log",
+  "wiki": "https://en.wikipedia.org/wiki/Logbook"
+}, {
+  "name": "Birds",
+  "path": "birds"
 }]
