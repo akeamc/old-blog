@@ -3,7 +3,7 @@ title: Launching soon!
 description: |
   After some coding, my blog will soon be deployed and available for everyone to read!
 author: ThePicoNerd
-date_posted: 2018-12-10
+date_posted: 2018-12-10 19:38:23Z
 tags:
   - message
 ---

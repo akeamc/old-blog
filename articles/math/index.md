@@ -1,9 +1,9 @@
 ---
 title: MATH!
 description: |
-  I have added MathJax to my blog.
+  I have added KaTeX to my blog.
 author: ThePicoNerd
-date_posted: 2018-12-18 20:10:00
+date_posted: 2018-12-18 19:04:43Z
 tags:
   - message
   - mathematics
