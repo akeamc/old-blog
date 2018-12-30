@@ -1,3 +1,5 @@
+![](https://img.shields.io/badge/unicorn%20counsel-approved-brightgreen.svg) ![](https://img.shields.io/badge/quotes-double-brightgreen.svg)
+
 # Blog
 
 All of the blog posts of [my blog](https://lynx.agency).
