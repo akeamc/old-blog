@@ -31,4 +31,7 @@
 }, {
   "name": "Birds",
   "path": "birds"
+}, {
+  "name": "Electronics",
+  "path": "electronics"
 }]
