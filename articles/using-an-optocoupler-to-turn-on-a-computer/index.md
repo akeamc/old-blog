@@ -27,7 +27,7 @@ If you want your existing front panel power button to stay functional, you can c
 
 Since the optocoupler consists of an LED and some form of light-sensitive switch, the polarity of the anode and the cathode of the optocoupler does matter. The anode connects to `GPIO4` on the Raspberry Pi (or any 3.3V output) **via a 220 ohm resistor**, and the cathode goes directly ground (`GND`).
 
-![](sketch.svg)
+![](sketch.png)
 
 ## Programming
 
