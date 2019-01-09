@@ -1,7 +1,7 @@
 ---
 title: Using an optocoupler to turn on a computer
 description: |
-  I have a few computers that I use as servers, and turning them all on by hand is a pain. Instead of migrating to the cloud (that costs), I built a small circuit using a Raspberry Pi, an optocoupler, a resistor and a few jumper wires.
+  I have a few computers that I use as servers, and turning them all on by hand is a pain. Instead of migrating to the cloud (that's expensive), I built a small circuit using a Raspberry Pi, an optocoupler, a resistor and a few jumper wires.
 author: ThePicoNerd
 date_posted: 2019-01-01 12:08:54Z
 tags:
@@ -16,7 +16,7 @@ First of all, Happy New Year! 🎉
 - A Raspberry Pi
 - An optocoupler (4N35 in this guide)
 - A breadboard (if you don't want to solder)
-- A 220 Ω resistor
+- A 220 ohm resistor
 - Some jumper wires (male to female)
 
 ## Wiring
