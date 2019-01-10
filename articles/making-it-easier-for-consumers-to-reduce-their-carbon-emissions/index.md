@@ -6,6 +6,7 @@ author: ThePicoNerd
 date_posted: 2019-01-10 18:26:30Z
 tags:
   - climate
+  - opinion
 ---
 
 ## Introduction

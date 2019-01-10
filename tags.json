@@ -37,4 +37,7 @@
 }, {
   "name": "Climate",
   "path": "climate"
+}, {
+  "name": "Opinion",
+  "path": "opinion"
 }]
