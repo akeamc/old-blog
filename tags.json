@@ -34,4 +34,7 @@
 }, {
   "name": "Electronics",
   "path": "electronics"
+}, {
+  "name": "Climate",
+  "path": "climate"
 }]
