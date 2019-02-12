@@ -21,7 +21,7 @@ First of all, Happy New Year! 🎉
 
 ## Wiring
 
-The main component in this sketch is the 4N35, an [optocoupler](https://en.wikipedia.org/wiki/Opto-isolator). On most motherboards, there are male pin headers on the bottom right corner for various lights and switches. The so-called front panel connectors. The pins that we are focusing should be called something like <abbr title="power switch">PWR_SW</abbr>. They are reperesented by *Motherboard* in the sketch below. Note that the polarity of the PWR_SW pins does not matter. This does not apply to the optocoupler's anode and cathode.
+The main component in this sketch is the 4N35, an [optocoupler](https://en.wikipedia.org/wiki/Opto-isolator). On most motherboards, there are male pin headers on the bottom right corner for various lights and switches. That's the front panel connectors. The pins that we are focusing should be called something like <abbr title="power switch">PWR_SW</abbr>. They are reperesented by *Motherboard* in the sketch below. Note that the polarity of the PWR_SW pins does not matter. This does not apply to the optocoupler's anode and cathode.
 
 If you want your existing front panel power button to stay functional, you can connect it like the pushbutton in the sketch.
 
