@@ -3,7 +3,7 @@ title: "Lynx's new typeface for 2019"
 description: |
   A few months ago, I started Googling in search of the perfect, free font. I finally found it.
 author: ThePicoNerd
-date_posted: 2019-02-12 19:24:00Z
+date_posted: 2019-02-12 19:26:00Z
 tags:
   - branding
   - design
