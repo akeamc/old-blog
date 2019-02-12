@@ -40,4 +40,10 @@
 }, {
   "name": "Opinion",
   "path": "opinion"
+}, {
+  "name": "Design",
+  "path": "design"
+}, {
+  "name": "Branding",
+  "path": "branding"
 }]
