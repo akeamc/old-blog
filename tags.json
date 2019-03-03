@@ -2,8 +2,8 @@
   "name": "Message",
   "path": "message"
 }, {
-  "name": "Microservices",
-  "path": "microservices"
+  "name": "Kubernetes",
+  "path": "kubernetes"
 }, {
   "name": "JavaScript",
   "path": "javascript"
