@@ -8,7 +8,7 @@ Creating an empty blog article ...
 ----------------------------------
 `);
 
-let name = args.name || moment().unix();
+let name = args.name || moment().unix().toString();
 
 name = name.replace(/[\s]/g, "-").replace(/((?!([a-z0-9-])).)/gi, "").toLowerCase();
 
