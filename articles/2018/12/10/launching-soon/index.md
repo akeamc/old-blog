@@ -8,7 +8,7 @@ tags:
   - message
 ---
 
-## T - A few days
+# T - A few days
 
 I'm not sure what problems I might encounter while finishing and deploying, or how much it will cost. I am very optimistic right now, and will try to keep up the mood until Google AdSense is working and the blog is hosted under an actual domain, not `localhost:8080`.
 

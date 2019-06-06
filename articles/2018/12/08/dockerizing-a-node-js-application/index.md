@@ -11,7 +11,7 @@ tags:
 
 Source code available [here](https://github.com/ThePicoNerd/Blog/tree/master/articles/dockerizing-a-node-app/source).
 
-## Writing the application
+# Writing the application
 
 If you're just trying Docker out and don't have an application, write a simple [Express.js](https://npmjs.com/package/express) RESTful application:
 
@@ -72,7 +72,7 @@ Hello 🌍
 
 If you have done everything correctly, you should be greeted with `Hello 🌍`.
 
-## Dockerizing 🐋
+# Dockerizing 🐋
 
 First, create a file named `Dockerfile` in the root of your project. Add the following code:
 

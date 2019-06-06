@@ -11,7 +11,7 @@ tags:
 
 First of all, Happy New Year! 🎉
 
-## Prerequisites
+# Prerequisites
 
 - A Raspberry Pi
 - An optocoupler (4N35 in this guide)
@@ -19,7 +19,7 @@ First of all, Happy New Year! 🎉
 - A 220 ohm resistor
 - Some jumper wires (male to female)
 
-## Wiring
+# Wiring
 
 The main component in this sketch is the 4N35, an [optocoupler](https://en.wikipedia.org/wiki/Opto-isolator). On most motherboards, there are male pin headers on the bottom right corner for various lights and switches. That's the front panel connectors. The pins that we are focusing should be called something like <abbr title="power switch">PWR_SW</abbr>. They are reperesented by *Motherboard* in the sketch below. Note that the polarity of the PWR_SW pins does not matter. This does not apply to the optocoupler's anode and cathode.
 
@@ -29,7 +29,7 @@ Since the optocoupler consists of an LED and some form of light-sensitive switch
 
 ![](sketch.png)
 
-## Programming
+# Programming
 
 There are many ways to make the Raspberry Pi turn on or off a GPIO pin. I tried the `gpio` command, without success. Instead, I used Python and the RPi library. To be able to push the power button remotely, I set up a simple Flask web server that triggers the `push` function when a `GET` request is sent to `/` (when someone opens `http://<IP OF PI>:8080` in their browser).
 

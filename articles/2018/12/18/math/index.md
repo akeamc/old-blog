@@ -9,7 +9,7 @@ tags:
   - mathematics
 ---
 
-## Look at it
+# Look at it
 
 I tried [MathJax](https://www.mathjax.org). I did not like it, nor do I recommend it. I came across [KaTeX](https://katex.org). I like it. Actually, I have come to the conclusion that KaTeX is just like MathJax, but with a few differences:
 

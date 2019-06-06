@@ -9,7 +9,7 @@ tags:
   - design
 ---
 
-## Story
+# Story
 
 Google Fonts is a great resource for fonts to use on one's website. The fonts are well-made, easy to add to a site and, to me, most important: They are free to use commercially. More and more (huge) corporations are designing their own typefaces (Netflix Sans, Google Sans, etc.), and they all have one thing in common: They are all sans serif. I searched Google Fonts for hours looking for a good sans serif font, but they all had a few properties that I wasn't a fan of. For instance, [Poppins](https://fonts.google.com/specimen/Poppins) has weird thin joints, [Montserrat](https://fonts.google.com/specimen/Montserrat)'s glyphs are too wide and [Nunito](https://fonts.google.com/specimen/Nunito) has rounded terminals that in my opinion doesn't fit. Other than that, they are all great fonts.
 

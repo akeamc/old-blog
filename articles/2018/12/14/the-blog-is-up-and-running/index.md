@@ -8,7 +8,7 @@ tags:
   - message
 ---
 
-## T + A few minutes
+# T + A few minutes
 
 The blog has been running for a few minutes, flawlessly. If you want to know how the blog is made, what I used to deploy it and so on, tell me! I'm open for suggestions, primarily because of the lack of ideas.
 
