@@ -8,15 +8,15 @@ tags:
   - kubernetes
 ---
 
-## Why not the cloud?
+# Why not the cloud?
 
 When I decided to host Kubernetes on my own, I was not a complete newbie, nor was I an expert. I had deployed clusters on both [Google Kubernetes Engine](https://cloud.google.com/kubernetes-engine) and [DigitalOcean Kubernetes](https://www.digitalocean.com/products/kubernetes). Since a blog with roughly one visitor per month isn't a great source of income, my budget was, to say the least, limited. Ten dollars a month (the cheapest configuration available on DigitalOcean) might seem like close to nothing, but to put things into perspective, it's an infinite amount more than what I earn from this blog (USD 0). So, I was doomed to host Kubernetes on my own. Luckily, I had two decent servers laying around, with *ok* specs, and so I used [kubeadm](https://kubernetes.io/docs/setup/independent/create-cluster-kubeadm) to deploy a cluster within not minutes, but hours, thanks to my incompetence.
 
-## The current configuration
+# The current configuration
 
 I attempted using my Raspberry Pi as a node in the cluster, but for some reason, the web server on it, which also is Lynx's main load balancer, wouldn't work when the Pi was working for the cluster (I think it has something to do with different networks). The same happend to my most powerful node, with the staggering 12 GiB of DDR3 RAM and an [Intel Core i5-3350P](https://ark.intel.com/content/www/us/en/ark/products/69114/intel-core-i5-3350p-processor-6m-cache-up-to-3-30-ghz.html) processor with 4 cores. I fixed the last issue, though. The master is an old laptop with 2 cores and 4 GiB of RAM. The cluster can handle most workloads *just fine*.
 
-### Detailed system info
+## Detailed system info
 
 This is part of the output of `lshw` on the master:
 
@@ -108,7 +108,7 @@ This is part of the output of `lshw` on the master:
         clock: 1600MHz (0.6ns)
 ```
 
-## Workloads
+# Workloads
 
 Right now, I have configured GitLab CI to automatically push to its registry and then connect to the cluster and deploy code whenever a push to the `master` branch has occurred. It works fine so far. The [Gitlab Runners](https://docs.gitlab.com/runner) are running on the cluster, and I know that it might not be the best idea. But hey, I'm on a budget. A tight budget.
 
