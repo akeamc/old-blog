@@ -1,0 +1,21 @@
+{
+  "name": "blog-content",
+  "private": true,
+  "main": "init.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ThePicoNerd/Blog.git"
+  },
+  "keywords": [],
+  "author": "Åke Amcoff @ThePicoNerd",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ThePicoNerd/Blog/issues"
+  },
+  "homepage": "https://lynx.agency",
+  "dependencies": {
+    "fs-extra": "^7.0.1",
+    "moment": "^2.24.0",
+    "yargs": "^13.2.1"
+  }
+}
